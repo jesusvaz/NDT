@@ -1,0 +1,167 @@
+https://www.shapedivider.app/
+
+font blanco
+background blu gradient
+ <div><img src={logo}/></div>
+            <div>NAME</div>
+
+
+********************* HTML
+<div class="custom-shape-divider-bottom-1622512746">
+    <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+        <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" class="shape-fill"></path>
+    </svg>
+</div>
+
+
+********************* CSS
+.custom-shape-divider-bottom-1622512746 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1622512746 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 245px;
+}
+
+.custom-shape-divider-bottom-1622512746 .shape-fill {
+    fill: #509BE3;
+}
+
+******************************
+
+<div class="custom-shape-divider-top-1622513603">
+    <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+        <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" class="shape-fill"></path>
+    </svg>
+</div>
+.custom-shape-divider-top-1622513603 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1622513603 svg {
+    position: relative;
+    display: block;
+    width: calc(296% + 1.3px);
+    height: 285px;
+}
+
+.custom-shape-divider-top-1622513603 .shape-fill {
+    fill: #509BE3;
+}
+
+    fill: #50e3ab;
+    background-image: linear-gradient(blue);
+
+    CWI: Certified Welding Inspection 
+UT: Ultrasonic Testing 
+UTPA:Ultrasonic Testing Phased Array
+MT: Magnetic Particle Testing
+PT:Liquid Penetrant Inspection 
+Coming Soon: RT Radiographic Testing
+
+<i class="fas fa-search"></i>
+<i class="fas fa-laptop-house"></i>
+<i class="fas fa-ethernet"></i>
+<i class="fas fa-synagogue"></i>
+<i class="far fa-building"></i>
+<i class="fas fa-school"></i>
+<i class="fas fa-hospital-alt"></i>
+<i class="fas fa-charging-station"></i>
+<i class="fas fa-magnet"></i>
+<i class="fas fa-city"></i>
+<i class="fas fa-file-contract"></i>
+<i class="fas fa-hospital-user"></i>
+<i class="fas fa-user-cog"></i>
+<i class="fas fa-laptop-code"></i>
+<i class="far fa-file-certificate"></i>
+<i class="far fa-check-square"></i>
+<i class="far fa-cloud-download"></i>
+
+ <div 
+            class="custom-shape-divider-top-1622513603">
+
+                <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+                    <defs>
+                        <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+                            <stop offset="0%" style={{stopColor:"blue",stopOpacity:1}} />
+                            <stop offset="100%" style={{stopColor:"blueviolet",stopOpacity:1}} />
+                        </linearGradient>
+                    </defs>
+                    <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" 
+                    class="shape-fill"
+                    ></path>
+                    <text x="20" y="20" fill="white">Bonneville NDT</text>
+                </svg>
+            </div>
+
+            background-image: linear-gradient(cyan );
+
+            85d7e8
+
+               <div className="service">
+          <h1 >NDT</h1>
+          <div>Details {servicees.length}</div> 
+        </div>
+
+   {
+      services.map( service => (
+        <div className="service">
+        <h1>service.title</h1>
+        <div>service.service</div> 
+        </div>
+        )
+      )}
+      )}
+
+    width: 85vw;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 20px;
+
+    /////////////////////////////////////////////////////
+    import React from 'react'
+import NDT_INSPECTIONS from '../../inspections/inspections'
+import Services from '../services/services.styles'
+import logo from '../../components/navigation/images/ndt.png'
+import '../homepage/homepage.styles.scss'
+import Footer from '../footer/footer.component'
+import {Link} from 'react-router-dom'
+
+
+const HomePage = () => (
+  <>
+    {/* <div className='homepage'>
+      <div className="logo">
+        <img src={logo} alt="NDT Logo"/>
+      </div>
+      <div className="directory-menu">
+        <Link to='about'> ABOUT </Link> 
+        <Link to='contact'> CONTACT </Link>
+      </div>
+    </div> */}
+    <hr/>
+    <h1>Non Destructive Testing Inspections</h1>
+    <div className="services">
+      <Services inspections={NDT_INSPECTIONS}/>
+    </div>
+    <Footer/>
+  </>
+);
+
+export default HomePage;
+//////////////////////////////////////////////////////////////////
