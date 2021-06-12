@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/jesusvaz.github.io/NDT/static/css/main.9a034db4.chunk.css",
-    "main.js": "/jesusvaz.github.io/NDT/static/js/main.10028445.chunk.js",
-    "main.js.map": "/jesusvaz.github.io/NDT/static/js/main.10028445.chunk.js.map",
-    "runtime-main.js": "/jesusvaz.github.io/NDT/static/js/runtime-main.c719da5d.js",
-    "runtime-main.js.map": "/jesusvaz.github.io/NDT/static/js/runtime-main.c719da5d.js.map",
-    "static/js/2.427823e4.chunk.js": "/jesusvaz.github.io/NDT/static/js/2.427823e4.chunk.js",
-    "static/js/2.427823e4.chunk.js.map": "/jesusvaz.github.io/NDT/static/js/2.427823e4.chunk.js.map",
-    "static/js/3.860c2c60.chunk.js": "/jesusvaz.github.io/NDT/static/js/3.860c2c60.chunk.js",
-    "static/js/3.860c2c60.chunk.js.map": "/jesusvaz.github.io/NDT/static/js/3.860c2c60.chunk.js.map",
-    "index.html": "/jesusvaz.github.io/NDT/index.html",
-    "static/css/main.9a034db4.chunk.css.map": "/jesusvaz.github.io/NDT/static/css/main.9a034db4.chunk.css.map",
-    "static/js/2.427823e4.chunk.js.LICENSE.txt": "/jesusvaz.github.io/NDT/static/js/2.427823e4.chunk.js.LICENSE.txt",
-    "static/media/ndt.c1a0e57c.png": "/jesusvaz.github.io/NDT/static/media/ndt.c1a0e57c.png"
+    "main.css": "/NDT/static/css/main.9a034db4.chunk.css",
+    "main.js": "/NDT/static/js/main.10028445.chunk.js",
+    "main.js.map": "/NDT/static/js/main.10028445.chunk.js.map",
+    "runtime-main.js": "/NDT/static/js/runtime-main.d140e6c7.js",
+    "runtime-main.js.map": "/NDT/static/js/runtime-main.d140e6c7.js.map",
+    "static/js/2.427823e4.chunk.js": "/NDT/static/js/2.427823e4.chunk.js",
+    "static/js/2.427823e4.chunk.js.map": "/NDT/static/js/2.427823e4.chunk.js.map",
+    "static/js/3.860c2c60.chunk.js": "/NDT/static/js/3.860c2c60.chunk.js",
+    "static/js/3.860c2c60.chunk.js.map": "/NDT/static/js/3.860c2c60.chunk.js.map",
+    "index.html": "/NDT/index.html",
+    "static/css/main.9a034db4.chunk.css.map": "/NDT/static/css/main.9a034db4.chunk.css.map",
+    "static/js/2.427823e4.chunk.js.LICENSE.txt": "/NDT/static/js/2.427823e4.chunk.js.LICENSE.txt",
+    "static/media/ndt.c1a0e57c.png": "/NDT/static/media/ndt.c1a0e57c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c719da5d.js",
+    "static/js/runtime-main.d140e6c7.js",
     "static/js/2.427823e4.chunk.js",
     "static/css/main.9a034db4.chunk.css",
     "static/js/main.10028445.chunk.js"
