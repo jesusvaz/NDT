@@ -1,12 +1,9 @@
 
+  // I am ok with thi one
   .homepage {
     display: flex;
     align-items: center;
     padding: 20px 80px;
-  }
-
-  button{
-    color:#1c4fa8;
   }
 
   .logo{
@@ -28,14 +25,6 @@
     width: 100vh;
   }
   
-  .services{
-    width: 85vw;
-    margin: 0 auto;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 20px;
-  }
-
   a{
     text-decoration: none;
   }

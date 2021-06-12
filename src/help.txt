@@ -165,3 +165,32 @@ const HomePage = () => (
 
 export default HomePage;
 //////////////////////////////////////////////////////////////////
+//services
+  @media only screen and (max-width: 600px) {
+    .title{
+        color:#1c4fa8;
+    }
+    .services{
+        display: flex;
+ 
+
+    }
+    .item{
+        flex:1;
+    }
+}
+
+
+//homepage
+  @media only screen and (max-width: 600px) {
+
+ 
+    .services{
+      margin: 0 auto;
+      display: flex;
+      flex-wrap: wrap;
+     
+    
+      
+    }
+  }

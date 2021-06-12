@@ -8,9 +8,10 @@ function Service({inspections}) {
          {
             services.map( (service,idx) => (
               <div key={idx}  className="service">
-              <h3 className="title">{service.title}</h3>
-              <div>{service.content.en}</div> 
-              </div>
+                <div className="item"></div>
+                    <h3 className="title">{service.title}</h3>
+                    <div>{service.content.en}</div> 
+                </div>
               )
             )
          }

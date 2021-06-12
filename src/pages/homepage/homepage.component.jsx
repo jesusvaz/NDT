@@ -2,10 +2,10 @@ import React from 'react'
 import NDT_INSPECTIONS from '../../inspections/inspections'
 import Services from '../services/services.styles'
 import logo from '../../components/navigation/images/ndt.png'
-import '../homepage/homepage.styles.scss'
+
 import Footer from '../footer/footer.component'
 import {Link} from 'react-router-dom'
-
+import '../homepage/homepage.styles.scss'
 
 const HomePage = () => (
   <>

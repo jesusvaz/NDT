@@ -1,4 +1,5 @@
 .service{
+   
     text-align: left;
     border-style: solid;
     border-color: #1c4fa8;
@@ -13,12 +14,14 @@
 .title{
     color:#1c4fa8;
 }
-  @media only screen and (max-width: 700px) {
-    .services{
-        width: 50px;
-        border-style: solid;
-        border-color: #1c4fa8;
-        border-radius: 25px;
-        border-width: 1px;
-    }
+
+.item{
+  
+}
+
+
+@media only screen and (max-width: 600px) {
+
+
+
 }

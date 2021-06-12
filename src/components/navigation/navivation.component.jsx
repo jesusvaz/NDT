@@ -1,7 +1,6 @@
 import React from 'react'
 import logo from '../navigation/images/ndt.png'
 import '../navigation/navigation.styles.scss'
-//import '../homepage/homepage.styles.scss'
 import {Link} from 'react-router-dom'
 
 
